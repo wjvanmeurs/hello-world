@@ -1,4 +1,4 @@
 # hello-world
 Project to get acquainted with GitHub
-Added line 3
+Line 3
 
